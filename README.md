@@ -31,4 +31,4 @@ The goal of this project is to analyze survival patterns among Titanic passenger
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-eda.git
+   git clone https://github.com/IHaithem/titanic-eda.git
